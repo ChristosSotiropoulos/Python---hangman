@@ -1,2 +1,2 @@
 # Python---hangman
-Using python code to make a Hangman game
+Using python code to create a Hangman game
